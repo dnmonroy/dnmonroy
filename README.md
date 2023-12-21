@@ -6,8 +6,8 @@
 - 👀 I’m interested in software development, web technologies and mobile applications.
 - 💞️ I’m looking to collaborate on projects for the development of web and mobile applications,
 - 🤗 Most of my repositories are currently set to private as they are part of personal work
-- ⚡ Fun fact: I love Sports, especially Cricket.
-
+- ⚡ Fun fact: I love technology and photography.
+- 
 <br>
 
 <!-- <p align="center">
