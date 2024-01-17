@@ -19,6 +19,8 @@
   </a>
 </p> -->
 
-  <p align="center"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=dnmonroy&theme=whatsapp-light2&mode=weekly" alt="GitHub Streak" /></a></p>
+  <p align="center">
+    [![GitHub Streak](https://streak-stats.demolab.com?user=dnmonroy&theme=whatsapp-light2&hide_border=true)](https://git.io/streak-stats)
+  </p>
 
   <br>
